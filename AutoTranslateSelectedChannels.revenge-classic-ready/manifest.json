@@ -1,0 +1,1 @@
+{"name":"AutoTranslateSelectedChannels","description":"Show Google English-to-Traditional-Chinese translations in selected non-private channels on Revenge Classic.","authors":[{"name":"Local derivative"}],"main":"index.js","vendetta":{"icon":"ic_translate"},"hash":"48fdd51989c531178652251e3feb546edc9637e758f0701c9d276b5260673696"}
